@@ -28,7 +28,7 @@ Selamat datang di repositori aplikasi inventaris sekolah kami! Aplikasi ini dira
 Clone the project
 
 ```bash
-  git clone https://github.com/Aliudin19/TA-INVENTORY.git
+  git clone https://github.com/MrsFaixall/Inventory_Barang_Smk.git
 ```
 
 Go to the project directory
